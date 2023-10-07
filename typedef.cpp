@@ -5,9 +5,9 @@
 using namespace std;
 
 /*
-    By using typedef concept we can assign the new name to an existing data type like primitive , Derived and Use defined
+    - By using typedef concept we can assign the new name to an existing data type like primitive , Derived and User defined datatypes.
 
-    typedef it use to simplifly the complecated syntax of data type
+    - Typedef is used to simplifly the complecated syntax of data type.
 */
 int main()
 {
